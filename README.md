@@ -1,2 +1,2 @@
-# Data_Preparation_Project
-Project of Data Preparation and Analysis course.
+# DataPrep
+Data Preparation and Analysis Final Project
